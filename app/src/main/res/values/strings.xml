@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="tituloImagem1"> Harry Potter e a pedra filosofal</string>
+    <string name="descricaoImagem1">(2001)</string>
+    <string name="tituloImagem2"> Harry Potter e a Câmara Secreta</string>
+    <string name="descricaoImagem2">(2002)</string>
+    <string name="tituloImagem3">Harry Potter e o Prisioneiro de Azkaban</string>
+    <string name="descricaoImagem3">(2004)</string>
+    <string name="tituloImagem4">Harry Potter e o Cálice de Fogo </string>
+    <string name="descricaoImagem4">(2005)</string>
+    <string name="tituloImagem5">Harry Potter e a Ordem da Fênix</string>
+    <string name="descricaoImagem5">(2007)</string>
+
+
+
+
+
+
+
+
+
 </resources>
